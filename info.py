@@ -1,0 +1,5 @@
+card_name = ""
+card_num = ""
+card_date = ""
+card_back = ""
+tz = ""
